@@ -7,7 +7,7 @@ img {
 #banner {
     background-position: top center;
     background-size: cover;
-    background-image: url("../images/Background4.jpg");
+    background-image: url("../images/Background4.1.jpg");
     position: relative;
     background-attachment: fixed;
     min-height: 889px;
@@ -153,6 +153,15 @@ img {
 .portfolio-items .single-item .popup:hover img {
     transform: scale(1.2);
 }
+
+/* Art */
+
+#art {
+  padding-top: 120px;
+  padding-bottom: 130px;
+  background-color: #f3f3f3;
+}
+
 
 /* Services */
 
